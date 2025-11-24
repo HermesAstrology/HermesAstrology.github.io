@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Hermes Astrology</title>
+    <link>https://hermesastrology.github.io/</link>
+    <description>RSS feed for Hermes Astrology website.</description>
+    <language>en-us</language>
+
+    <item>
+      <title>Homepage</title>
+      <link>https://hermesastrology.github.io/</link>
+      <guid>https://hermesastrology.github.io/</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <description>Homepage of Hermes Astrology.</description>
+    </item>
+
+    <item>
+      <title>Pluto in Astrology</title>
+      <link>https://hermesastrology.github.io/pluto_in_astrology.html</link>
+      <guid>https://hermesastrology.github.io/pluto_in_astrology.html</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <description>Pluto in Astrology.</description>
+    </item>
+  </channel>
+</rss>
