@@ -1,7 +1,0 @@
-# Force correct MIME types on GitHub Pages
-mime_types:
-  xml: application/xml
-  rss: application/rss+xml
-
-# Disable Jekyll processing for the whole site (optional but recommended)
-plugins: []
