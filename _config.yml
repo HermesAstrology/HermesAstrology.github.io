@@ -1,10 +1,7 @@
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      sitemap: false
-
+# Force correct MIME types on GitHub Pages
 mime_types:
-  rss: application/rss+xml
   xml: application/xml
+  rss: application/rss+xml
+
+# Disable Jekyll processing for the whole site (optional but recommended)
+plugins: []
