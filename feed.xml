@@ -1,92 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0">
   <channel>
     <title>Hermes Astrology</title>
-    <description>Astrology insights and Pluto interpretations</description>
+    <description>Comprehensive guides to Pluto in astrology - signs, houses, and interpretations</description>
     <link>https://hermesastrology.github.io/</link>
-    <lastBuildDate>Tue, 19 Nov 2025 00:00:00 GMT</lastBuildDate>
-    <atom:link href="https://hermesastrology.github.io/rss.xml" rel="self" type="application/rss+xml"/>
-    <language>en</language>
-    <generator>Hermes Astrology RSS Generator</generator>
+    <lastBuildDate>Tue, 19 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <language>en-us</language>
+    <generator>Hermes Astrology</generator>
     
     <item>
-      <title>Home Page</title>
-      <description>Welcome to Hermes Astrology - Your guide to planetary influences and interpretations</description>
+      <title>Home - Hermes Astrology</title>
+      <description>Welcome to Hermes Astrology - Your comprehensive guide to Pluto's transformative power in astrology</description>
       <link>https://hermesastrology.github.io/</link>
-      <guid isPermaLink="true">https://hermesastrology.github.io/</guid>
-      <pubDate>Tue, 19 Nov 2025 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://hermesastrology.github.io/</guid>
     </item>
     
     <item>
-      <title>Pluto in Astrology</title>
-      <description>Understanding Pluto's role and significance in astrological interpretations</description>
+      <title>Pluto in Astrology - The Planet of Transformation</title>
+      <description>Understanding Pluto's role as the planet of death, rebirth, and transformation in astrological interpretations</description>
       <link>https://hermesastrology.github.io/pluto_in_astrology.html</link>
-      <guid isPermaLink="true">https://hermesastrology.github.io/pluto_in_astrology.html</guid>
-      <pubDate>Tue, 19 Nov 2025 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://hermesastrology.github.io/pluto_in_astrology.html</guid>
     </item>
     
     <item>
-      <title>Pluto in Signs</title>
-      <description>Explore how Pluto manifests through different zodiac signs</description>
+      <title>Pluto in Signs - Zodiac Manifestations</title>
+      <description>Explore how Pluto's transformative energy manifests through each of the twelve zodiac signs</description>
       <link>https://hermesastrology.github.io/pluto_in_signs.html</link>
-      <guid isPermaLink="true">https://hermesastrology.github.io/pluto_in_signs.html</guid>
-      <pubDate>Tue, 19 Nov 2025 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://hermesastrology.github.io/pluto_in_signs.html</guid>
     </item>
     
     <item>
-      <title>Pluto in Houses</title>
-      <description>Discover Pluto's influence across the astrological houses</description>
+      <title>Pluto in Houses - Life Area Transformations</title>
+      <description>Discover how Pluto influences different areas of life through its placement in the astrological houses</description>
       <link>https://hermesastrology.github.io/pluto_in_houses.html</link>
-      <guid isPermaLink="true">https://hermesastrology.github.io/pluto_in_houses.html</guid>
-      <pubDate>Tue, 19 Nov 2025 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://hermesastrology.github.io/pluto_in_houses.html</guid>
     </item>
     
     <item>
-      <title>Pluto in Aquarius</title>
-      <description>Pluto's transformative energy in the sign of Aquarius</description>
+      <title>Pluto in Aquarius - Collective Transformation</title>
+      <description>Pluto's revolutionary energy in Aquarius - transforming society, technology, and collective consciousness</description>
       <link>https://hermesastrology.github.io/pluto_in_aquarius.html</link>
-      <guid isPermaLink="true">https://hermesastrology.github.io/pluto_in_aquarius.html</guid>
-      <pubDate>Tue, 19 Nov 2025 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://hermesastrology.github.io/pluto_in_aquarius.html</guid>
     </item>
     
     <item>
-      <title>Pluto in Capricorn</title>
-      <description>Pluto's powerful influence in the sign of Capricorn</description>
+      <title>Pluto in Capricorn - Structural Revolution</title>
+      <description>Pluto's transformative power in Capricorn - reshaping institutions, governments, and societal structures</description>
       <link>https://hermesastrology.github.io/pluto_in_capricorn.html</link>
-      <guid isPermaLink="true">https://hermesastrology.github.io/pluto_in_capricorn.html</guid>
-      <pubDate>Tue, 19 Nov 2025 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://hermesastrology.github.io/pluto_in_capricorn.html</guid>
     </item>
     
     <item>
-      <title>Pluto in Sagittarius</title>
-      <description>Pluto's transformative journey through Sagittarius</description>
+      <title>Pluto in Sagittarius - Philosophical Depth</title>
+      <description>Pluto's journey through Sagittarius - transforming beliefs, expanding consciousness, and seeking truth</description>
       <link>https://hermesastrology.github.io/pluto_in_sagittarius.html</link>
-      <guid isPermaLink="true">https://hermesastrology.github.io/pluto_in_sagittarius.html</guid>
-      <pubDate>Tue, 19 Nov 2025 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://hermesastrology.github.io/pluto_in_sagittarius.html</guid>
     </item>
     
     <item>
-      <title>Pluto in Scorpio</title>
-      <description>Pluto's intense presence in its home sign of Scorpio</description>
+      <title>Pluto in Scorpio - Intense Regeneration</title>
+      <description>Pluto's powerful presence in its home sign of Scorpio - deep psychological transformation and rebirth</description>
       <link>https://hermesastrology.github.io/pluto_in_scorpio.html</link>
-      <guid isPermaLink="true">https://hermesastrology.github.io/pluto_in_scorpio.html</guid>
-      <pubDate>Tue, 19 Nov 2025 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://hermesastrology.github.io/pluto_in_scorpio.html</guid>
     </item>
     
     <item>
-      <title>Pluto in Libra</title>
-      <description>Pluto's balancing act in the sign of Libra</description>
+      <title>Pluto in Libra - Relationship Evolution</title>
+      <description>Pluto's balancing act in Libra - transforming relationships, partnerships, and social harmony</description>
       <link>https://hermesastrology.github.io/pluto_in_libra.html</link>
-      <guid isPermaLink="true">https://hermesastrology.github.io/pluto_in_libra.html</guid>
-      <pubDate>Tue, 19 Nov 2025 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://hermesastrology.github.io/pluto_in_libra.html</guid>
     </item>
     
     <item>
-      <title>Pluto in Virgo</title>
-      <description>Pluto's analytical transformation in Virgo</description>
+      <title>Pluto in Virgo - Analytical Purification</title>
+      <description>Pluto's analytical transformation in Virgo - purifying health, work, and service to others</description>
       <link>https://hermesastrology.github.io/pluto_in_virgo.html</link>
-      <guid isPermaLink="true">https://hermesastrology.github.io/pluto_in_virgo.html</guid>
-      <pubDate>Tue, 19 Nov 2025 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://hermesastrology.github.io/pluto_in_virgo.html</guid>
     </item>
   </channel>
 </rss>
