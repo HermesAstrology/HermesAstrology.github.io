@@ -1,0 +1,10 @@
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      sitemap: false
+
+mime_types:
+  rss: application/rss+xml
+  xml: application/xml
